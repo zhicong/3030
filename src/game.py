@@ -12,8 +12,8 @@ def get_between_sep(fname, sep):
 
 
 table = {
-    ' ': ' 🍭       ',
-    '.': '[🌲][dead]',
+    ' ': ' <img width="16" src="src/u1f43b.png">       ',
+    '.': '[<img width="16" src="src/u1f332.png">][dead]',
 }
 
 
